@@ -8,6 +8,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class FastFingerBot {
+	// http://stefanteixeira.com.br/2014/04/29/entendendo-os-tipos-de-esperas-no-selenium-webdriver/
+	// http://danilotl.com.br/blog/reconhecendo-caracteres-em-imagens-com-java-e-tess4j/
 	private static Random rand;
 	private static void logar(WebDriver driver) throws InterruptedException
 	{
